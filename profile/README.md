@@ -1,4 +1,4 @@
-# =Aggie Commute
+# Aggie Commute
 
 [![GitHub Organization](https://dcbadge.vercel.app/api/server/FZQT9sycbF?style=flat)](https://discord.gg/FZQT9sycbF)
 
